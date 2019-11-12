@@ -1,0 +1,105 @@
+#box{
+    height:100px;
+    width: 100px;
+    background-color: darkslategray;
+    margin: auto;
+    position: relative;
+}
+#box1{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    border-top:50px blue solid;
+    border-right:50px transparent solid;
+    border-bottom:50px transparent solid;
+    border-left:50px red solid;
+}
+#box2{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    right: 0px;
+    border-top:25px transparent solid;
+    border-right:25px deeppink solid;
+    border-bottom:25px transparent solid;
+    border-left:25px transparent solid;
+}
+#box3{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    right: 25px;
+    top: 25px;
+    border-top:25px transparent solid;
+    border-right:25px rebeccapurple solid;
+    border-bottom:25px transparent solid;
+    border-left:25px transparent solid;
+}
+#box4{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    top: 25px;
+    right: -25px;
+    border-top: 25px transparent solid;
+    border-right: 25px transparent solid;
+    border-bottom: 25px transparent solid;
+    border-left: 25px deeppink solid;
+}
+#box5{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    bottom: 0px;
+    border-top: 25px transparent solid;
+    border-right: 25px transparent solid;
+    border-bottom: 25px yellow solid;
+    border-left: 25px transparent solid;
+}
+#box6{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    border-top: 25px transparent solid;
+    border-right: 25px orange solid;
+    border-bottom: 25px transparent solid;
+    border-left: 25px transparent solid;
+}
+#box7{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border-top: 25px transparent solid;
+    border-right: 25px transparent solid;
+    border-bottom: 25px transparent solid;
+    border-left: 25px orange solid;
+}
+#box8{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border-top: 25px transparent solid;
+    border-right: 25px green solid;
+    border-bottom: 25px transparent solid;
+    border-left: 25px transparent solid;
+}
+#box9{
+    height: 0px;
+    width: 0px;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    border-top: 25px transparent solid;
+    border-right: 25px transparent solid;
+    border-bottom: 25px green solid;
+    border-left: 25px transparent solid;
+}
+
+
+
