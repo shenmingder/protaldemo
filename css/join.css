@@ -1,0 +1,83 @@
+#wk{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+/*第一部分*/
+#wk-f{
+    width: 100%;
+    height:52px;
+    background-color:#FFCA00;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+
+}
+#wk-f2 a img{
+    height: 19px;
+    width: 12px;
+    position: absolute;
+    left: 13px;
+    top: 17px;
+}
+#wk-f3 a img{
+    height: 26px;
+    width: 26px;
+    position: absolute;
+    right: 10px;
+    top: 14px;
+}
+/*第二部分*/
+#wk-s{
+    width: 100%;
+    height: 50px;
+    background-color: white;
+    position: absolute;
+    top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: 10px #F0EFED solid;
+}
+#wks-2 span{
+    width: 50px;
+    font-size: 14px;
+    color: #222;
+}
+.wks-3 span{
+    width: 50px;
+    font-size: 14px;
+    color: #999;
+}
+#wks-4 span{
+    width: 50px;
+    font-size: 14px;
+    color: #999;
+}
+#wks-5 span{
+    width: 50px;
+    font-size: 14px;
+    color: #999;
+}
+#wkt {
+    position: absolute;
+    top: 110px;
+    width:100%;
+    margin-right: 200px;
+}
+#wkt form{
+    width: 100%;
+   border-bottom:1px #F0EFED solid ;
+}
+#wkt form input{
+    height: 30px;
+    border: none;
+    outline: none;
+}
+
+
+
+
