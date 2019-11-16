@@ -4,6 +4,7 @@
     justify-content: center;
     align-items: center;
     position: relative;
+    background-color: #F0EFED;
 }
 /*第一部分*/
 #wk-f{
@@ -69,7 +70,7 @@
     margin-right: 200px;
 }
 #wkt form{
-    width: 100%;
+   width: 100%;
    border-bottom:1px #F0EFED solid ;
 }
 #wkt form input{
@@ -77,7 +78,42 @@
     border: none;
     outline: none;
 }
-
-
+#wkd-2{
+    position: absolute;
+    top: 50px;
+    left: 20px;
+    height: 16px;
+    float: left;
+}
+#wkd-2 input{
+    content: "✓";
+    font-size: .4rem;
+    font-family: base_icon;
+}
+#wkd-3{
+    position: absolute;
+    top: 50px;
+    left: 150px;
+    height: 16px;
+    float: left;
+}
+#wkd-3 a{
+    color: #FE8C00;
+}
+#wkd-4{
+    position: absolute;
+    top: 85px;
+    right: 17px;
+    width: 90%;
+    height: 45px;
+    border-radius: 20px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #dcdcdc;
+    color: #999;
+    font-size: 17px;
+}
 
 
