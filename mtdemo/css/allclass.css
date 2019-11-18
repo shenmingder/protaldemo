@@ -1,0 +1,227 @@
+#wk {
+    height: 100%;
+    width: 100%;
+    background-color: #F0EFED;
+}
+
+#wkk {
+    height: 53px;
+    width: 100%;
+}
+
+#wkf {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 53px;
+    width: 100%;
+    background-color: #FE8C00;
+    background-image: linear-gradient(-133deg, #FFBD00 0%, #FFD000 100%);
+}
+
+#wkf div {
+    /*padding-left: 4%;*/
+}
+
+#wkf2 {
+    height: 19px;
+    width: 10px;
+    padding-left: 15px;
+}
+
+#wkf3 {
+    height: 22px;
+    width: 25px;
+    padding-right: 15px;
+}
+
+#quanbu {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+    width: 90%;
+    margin-top: 10px;
+    margin-left: 5%;
+    background-color: white;
+    font-size: 14px;
+}
+
+/*热门*/
+#remen {
+    padding-left: 5%;
+    margin-top: 17px;
+    margin-bottom: 12px;
+}
+
+#wks {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    background-color: white;
+}
+
+.wks2 {
+    height: 38px;
+    border-right: #F0EFED 1px solid;
+}
+
+.wks2, .wks3 {
+    height: 38px;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*美食*/
+#meishi {
+    padding-left: 5%;
+    margin-top: 17px;
+    margin-bottom: 12px;
+}
+
+#wkt {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    background-color: white;
+}
+
+.wkt2 {
+    height: 40px;
+    border-right: #F0EFED 1px solid;
+}
+
+.wkt2, .wkt3 {
+    height: 40px;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*酒店*/
+#jiudian {
+    padding-left: 5%;
+    margin-top: 17px;
+    margin-bottom: 12px;
+}
+
+#wkd {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    background-color: white;
+}
+
+.wkd2 {
+    height: 40px;
+    border-right: #F0EFED 1px solid;
+}
+
+.wkd2, .wkd3 {
+    height: 40px;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*周边游*/
+#zhoubianyou {
+    padding-left: 5%;
+    margin-top: 17px;
+    margin-bottom: 12px;
+}
+
+#wkc {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    background-color: white;
+}
+
+.wkc2 {
+    height: 40px;
+    border-right: #F0EFED 1px solid;
+}
+
+.wkc2, .wkc3 {
+    height: 40px;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*休闲娱乐*/
+#xiuxianyule {
+    padding-left: 5%;
+    margin-top: 17px;
+    margin-bottom: 12px;
+}
+
+#wka {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    background-color: white;
+}
+
+.wka2 {
+    height: 40px;
+    border-right: #F0EFED 1px solid;
+}
+
+.wka2, .wka3 {
+    height: 40px;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*购物*/
+#gouwu {
+    padding-left: 5%;
+    margin-top: 17px;
+    margin-bottom: 12px;
+}
+
+#wkb {
+    width: 90%;
+    margin-left: 5%;
+    text-align: center;
+    background-color: white;
+}
+
+.wkb2 {
+    height: 40px;
+    border-right: #F0EFED 1px solid;
+}
+
+.wkb2, .wkb3 {
+    height: 40px;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*底部*/
+#wkg{
+    height: 20px;
+    width: 87%;
+    margin: auto;
+    margin-top: 18px;
+    margin-left: 10%;
+}
+#wkg2{
+    font-size: 13px;
+}
+#wkg img{
+    height: 16px;
+    width: 16px;
+}
+#wkg3{
+    font-size: 13px;
+}
+#wkh{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 20px;
+    width: 80%;
+    margin: auto;
+    margin-top: 20px;
+}
+.ms{
+    font-size: 10px;
+    color: #FE8C00;
+}
+.der{
+    font-size: 10px;
+}

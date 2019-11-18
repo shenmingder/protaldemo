@@ -1,15 +1,17 @@
-#wk{
+#wk {
     height: 100%;
     width: 100%;
 }
-#wkk{
-    height:275px ;
+
+#wkk {
+    height: 275px;
     width: 100%;
     border-bottom: #F0EFED 10px solid;
 
 }
+
 /*第一部分*/
-#wkf{
+#wkf {
     float: left;
     display: flex;
     align-items: center;
@@ -20,7 +22,8 @@
     background-color: #FE8C00;
     background-image: linear-gradient(-133deg, #FFBD00 0%, #FFD000 100%);
 }
-#wkf-2{
+
+#wkf-2 {
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -30,91 +33,106 @@
     height: 20px;
     width: 40px;
 }
-#wkf-2 a{
+
+#wkf-2 a {
     font-size: 14px;
     color: #222222;
 }
-#wkf-3{
+
+#wkf-3 {
     width: 9px;
     height: 5px;
     position: absolute;
     top: 17px;
     left: 30px;
 }
-#wkf-3 img{
+
+#wkf-3 img {
     width: 100%;
     height: 100%;
-    position :absolute;
+    position: absolute;
     left: 22px;
     top: 8px;
 }
-#wkf-4{
+
+#wkf-4 {
     height: 53%;
     width: 60%;
     background-color: #FFF9E5;
     position: absolute;
-    right :20%;
+    right: 20%;
     top: 10px;
     outline: none;
     border-radius: 10%;
 }
-#wkf-4 input{
+
+#wkf-4 input {
     height: 100%;
     width: 95%;
     color: #999999;
     padding-left: 15%;
 }
-#wkf-5{
+
+#wkf-5 {
     height: 25px;
     width: 25px;
     position: absolute;
     right: 12px;
 }
-#wkf-5 a img{
+
+#wkf-5 a img {
     height: 100%;
     width: 100%;
 }
-#wk-6{
+
+#wk-6 {
     position: absolute;
     left: 23%;
     top: 30%;
     height: 18px;
     width: 18px;
 }
-#wk-6 img{
+
+#wk-6 img {
     height: 100%;
     width: 100%;
 }
+
 /*第二部分*/
-#wks{
+#wks {
     position: absolute;
     top: 53px;
     height: 53px;
     width: 100%;
     background-color: black;
 }
-#wks-2{
+
+#wks-2 {
     position: absolute;
     left: 4%;
     top: 14%;
     height: 76%;
     width: 40px;
 }
-#wks-2 img{
+
+#wks-2 img {
     height: 100%;
     width: 100%;
 }
-#wks-3{
+
+#wks-3 {
     position: absolute;
     left: 60px;
     top: 7px;
-    height:10px ;
-    width:150px;
+    height: 10px;
+    width: 150px;
 }
-#wks-3 span{
+
+#wks-3 span {
     color: white;
-    font-size:14px ;
+    font-size: 14px;
 }
+
 #wks-4 {
     position: absolute;
     left: 60px;
@@ -122,11 +140,13 @@
     height: 25px;
     width: 150px;
 }
-#wks-4 span{
+
+#wks-4 span {
     color: white;
     font-size: 12px;
 }
-#wks-5{
+
+#wks-5 {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -137,10 +157,11 @@
     background-color: #FFC100;
     height: 29px;
     width: 55px;
-    font-size:12px ;
+    font-size: 12px;
 }
+
 /*第三部分*/
-#wkt{
+#wkt {
     position: absolute;
     top: 120px;
     height: 50px;
@@ -149,15 +170,18 @@
     justify-content: space-around;
     align-items: center;
 }
-.wkt-2{
-    height:50px ;
+
+.wkt-2 {
+    height: 50px;
     width: 50px;
 }
-.wkt-2 img{
+
+.wkt-2 img {
     height: 85%;
     width: 85%;
 }
-#wkts{
+
+#wkts {
     position: absolute;
     top: 140px;
     height: 170px;
@@ -166,68 +190,419 @@
     justify-content: space-around;
     align-items: center;
 }
-.wkts-3{
-    height:50px ;
+
+.wkts-3 {
+    height: 50px;
     width: 50px;
 }
-.wkts-3 img{
+
+.wkts-3 img {
     height: 85%;
     width: 85%;
 }
-#sp{
+
+#sp {
     display: flex;
     justify-content: space-around;
     align-items: center;
     position: absolute;
     top: 170px;
-    height:20px;
+    height: 20px;
     width: 100%;
-    font-size:10px ;
+    font-size: 10px;
     color: gray;
 }
-#jiu{
 
-}
-#spd{
+#spd {
     display: flex;
     justify-content: space-around;
     align-items: center;
     position: absolute;
     top: 250px;
-    height:20px;
+    height: 20px;
     width: 100%;
-    font-size:10px ;
+    font-size: 10px;
     color: gray;
 }
+
 /*第四部分*/
-#ms{
-    margin-left:3%;
+#ms {
+    margin-left: 3%;
     margin-top: 6px;
     width: 100%;
 }
-#msder{
+
+#msder {
     height: 30px;
     width: 100%;
     border-bottom: #F0EFED 1px solid;
 }
-#msder span{
+
+#msder span {
     font-size: 17px;
 }
-#jiaozikuang{
-    margin-top:10px ;
+
+/*第一张图片*/
+#jiaozikuang {
+    margin-top: 10px;
     height: 85px;
     width: 100%;
 }
-#jiaozi{
+
+#jiaozi {
     float: left;
     height: 85px;
     width: 24%;
 }
-#jiaozi img{
+
+#jiaozi img {
     height: 100%;
     width: 100%;
 }
-#jiaoziwenzi{
+
+#jiaoziwenzi {
+    height: 85px;
+    width: 263px;
     float: left;
+    position: relative;
 }
 
+#xing {
+    position: absolute;
+    top: 1px;
+    left: 8px;
+    font-size: 16px;
+}
+
+#san {
+    position: absolute;
+    top: 25px;
+    left: 8px;
+    font-size: 11px;
+}
+
+#sanyuan {
+    position: absolute;
+    bottom: 1px;
+    left: 8px;
+    font-size: 16px;
+    color: red;
+}
+
+#sanjiu {
+    position: absolute;
+    bottom: 1px;
+    left: 59px;
+    font-size: 11px;
+}
+
+#yishou {
+    position: absolute;
+    bottom: 1px;
+    right: 0px;
+    font-size: 11px;
+}
+
+#kongbaihezi {
+    height: 10px;
+    width: 100%;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*第二张图片*/
+#gutoukuang {
+    margin-top: 10px;
+    height: 85px;
+    width: 100%;
+}
+
+#gutou {
+    float: left;
+    height: 85px;
+    width: 24%;
+}
+
+#gutou img {
+    height: 100%;
+    width: 100%;
+}
+
+#gutouwenzi {
+    height: 85px;
+    width: 263px;
+    float: left;
+    position: relative;
+}
+
+#jiang {
+    position: absolute;
+    top: 1px;
+    left: 8px;
+    font-size: 16px;
+}
+
+#qi {
+    position: absolute;
+    top: 25px;
+    left: 8px;
+    font-size: 11px;
+}
+
+#shijiu {
+    position: absolute;
+    bottom: 1px;
+    left: 8px;
+    font-size: 16px;
+    color: red;
+}
+
+#ershi {
+    position: absolute;
+    bottom: 1px;
+    left: 45px;
+    font-size: 11px;
+}
+
+#yishou2 {
+    position: absolute;
+    bottom: 1px;
+    right: 0px;
+    font-size: 11px;
+}
+
+#kongbaihezi2 {
+    height: 10px;
+    width: 100%;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*第三张图片*/
+#dantakuang {
+    margin-top: 10px;
+    height: 85px;
+    width: 100%;
+}
+
+#danta {
+    float: left;
+    height: 85px;
+    width: 24%;
+}
+
+#danta img {
+    height: 100%;
+    width: 100%;
+}
+
+#dantawenzi {
+    height: 85px;
+    width: 263px;
+    float: left;
+    position: relative;
+}
+
+#hao {
+    position: absolute;
+    top: 1px;
+    left: 8px;
+    font-size: 16px;
+}
+
+#tian {
+    position: absolute;
+    top: 25px;
+    left: 8px;
+    font-size: 11px;
+}
+
+#jiusanyuan {
+    position: absolute;
+    bottom: 1px;
+    left: 8px;
+    font-size: 16px;
+    color: red;
+}
+
+#liuyuan {
+    position: absolute;
+    bottom: 1px;
+    left: 45px;
+    font-size: 11px;
+}
+
+#yishou3 {
+    position: absolute;
+    bottom: 1px;
+    right: 0px;
+    font-size: 11px;
+}
+
+#kongbaihezi3 {
+    height: 10px;
+    width: 100%;
+    border-bottom: #F0EFED 1px solid;
+}
+
+/*第四张图片*/
+#huoguokuang {
+    margin-top: 10px;
+    height: 85px;
+    width: 100%;
+}
+
+#huoguo {
+    float: left;
+    height: 85px;
+    width: 24%;
+}
+
+#huoguo img {
+    height: 100%;
+    width: 100%;
+}
+
+#huoguowenzi {
+    height: 85px;
+    width: 263px;
+    float: left;
+    position: relative;
+}
+
+#xiang {
+    position: absolute;
+    top: 1px;
+    left: 8px;
+    font-size: 16px;
+}
+
+#kong {
+    position: absolute;
+    top: 25px;
+    left: 8px;
+    font-size: 11px;
+}
+
+#liuqi {
+    position: absolute;
+    bottom: 1px;
+    left: 8px;
+    font-size: 16px;
+    color: red;
+}
+
+#qijiu {
+    position: absolute;
+    bottom: 1px;
+    left: 45px;
+    font-size: 11px;
+}
+
+#yishou4 {
+    position: absolute;
+    bottom: 1px;
+    right: 0px;
+    font-size: 11px;
+}
+
+#kongbaihezi4 {
+    height: 10px;
+    width: 100%;
+    border-bottom: #F0EFED 1px solid;
+}
+
+#ss {
+    position: relative;
+    height: 36px;
+    width: 100%;
+    border-bottom: #F0EFED 2px solid;
+}
+
+#ss2 {
+    position: absolute;
+    top: 6px;
+    left: 6px;
+    color: #FE8C00;
+}
+
+#ss3 {
+    position: absolute;
+    top: 6px;
+    right: 15px;
+    font-size: 20px;
+    color: #FE8C00;
+}
+
+#wws {
+    position: relative;
+    height: 70px;
+    width: 100%;
+}
+
+#wws2 {
+    position: absolute;
+    top: 15px;
+    left:15px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 27px;
+    width: 50px;
+    background-image: linear-gradient(135deg, #FFD000 0%, #FFBD00 100%);
+    border-radius: 8px;
+}
+
+#wws3 {
+    position: absolute;
+    top: 15px;
+    left:74px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 27px;
+    width: 50px;
+    background-image: linear-gradient(135deg, #FFD000 0%, #FFBD00 100%);
+    border-radius: 8px;
+}
+#wwss{
+    position: absolute;
+    top: 20px;
+    right :43px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#wws4 {
+    font-size: 13px;
+}
+
+#wws img {
+    height: 16px;
+    width: 16px;
+}
+
+#wws5 {
+    font-size: 13px;
+}
+#wwkh{
+    position: relative;
+}
+#wkh{
+    position: absolute;
+    left: 7%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 20px;
+    width: 80%;
+    /*margin: auto;*/
+    /*margin-top: 5px;*/
+    /*margin-right: 30px;*/
+}
+.ms{
+    font-size: 10px;
+    color: #FE8C00;
+}
+.der{
+    font-size: 10px;
+}

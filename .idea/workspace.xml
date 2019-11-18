@@ -15,63 +15,129 @@
     <session id="-1589203871">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="1" />
           <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.46" value="1" />
           <entry key="project.open.time.56" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.99" value="1" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="18" />
-          <entry key="html" value="19" />
-          <entry key="png" value="5" />
+          <entry key="css" value="29" />
+          <entry key="html" value="36" />
+          <entry key="png" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="18" />
-          <entry key="HTML" value="19" />
-          <entry key="Image" value="5" />
+          <entry key="CSS" value="29" />
+          <entry key="HTML" value="36" />
+          <entry key="Image" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="6012" />
-          <entry key="html" value="3335" />
+          <entry key="css" value="12465" />
+          <entry key="html" value="7203" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="6012" />
-          <entry key="HTML" value="3335" />
+          <entry key="CSS" value="12465" />
+          <entry key="HTML" value="7203" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mtdemo/shouye.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="110" column="39" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
+            <state relative-caret-position="250">
+              <caret line="131" column="44" lean-forward="true" selection-start-line="131" selection-start-column="44" selection-end-line="131" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mtdemo/css/shouye.css">
+        <entry file="file://$PROJECT_DIR$/mtdemo/shoppingcar.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="231" column="1" lean-forward="true" selection-start-line="231" selection-start-column="1" selection-end-line="231" selection-end-column="1" />
+            <state relative-caret-position="269">
+              <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mtdemo/css/shoppingcar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="206" column="22" selection-start-line="206" selection-start-column="22" selection-end-line="206" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mtdemo/join.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="223">
+              <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mtdemo/css/join.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mtdemo/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mtdemo/css/Item details.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="205" column="1" lean-forward="true" selection-start-line="205" selection-start-column="1" selection-end-line="205" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mtdemo/allclass.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mtdemo/Item details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -79,15 +145,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mtdemo/personal.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="315">
+              <caret line="98" column="38" lean-forward="true" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mtdemo/css/personal.css">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -107,20 +168,29 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/login.html" />
-        <option value="$PROJECT_DIR$/mtdemo/css/login.css" />
         <option value="$PROJECT_DIR$/七巧板.html" />
         <option value="$PROJECT_DIR$/qiqiaoban.html" />
         <option value="$PROJECT_DIR$/css/qiqiaoban.css" />
         <option value="$PROJECT_DIR$/css/join.css" />
         <option value="$PROJECT_DIR$/css/shouyu.css" />
         <option value="$PROJECT_DIR$/mtdemo/css/base.css" />
-        <option value="$PROJECT_DIR$/mtdemo/join.html" />
-        <option value="$PROJECT_DIR$/mtdemo/login.html" />
-        <option value="$PROJECT_DIR$/mtdemo/css/join.css" />
-        <option value="$PROJECT_DIR$/mtdemo/css/personal.css" />
-        <option value="$PROJECT_DIR$/mtdemo/personal.html" />
+        <option value="$PROJECT_DIR$/mtdemo/all.html" />
+        <option value="$PROJECT_DIR$/mtdemo/css/login.css" />
         <option value="$PROJECT_DIR$/mtdemo/css/shouye.css" />
+        <option value="$PROJECT_DIR$/mtdemo/css/personal.css" />
+        <option value="$PROJECT_DIR$/mtdemo/allclass.html" />
+        <option value="$PROJECT_DIR$/mtdemo/css/allclass.css" />
+        <option value="$PROJECT_DIR$/mtdemo/css/Item details.css" />
+        <option value="$PROJECT_DIR$/mtdemo/css/pay.css" />
+        <option value="$PROJECT_DIR$/mtdemo/pay.html" />
+        <option value="$PROJECT_DIR$/mtdemo/css/shoppingcar.css" />
+        <option value="$PROJECT_DIR$/mtdemo/css/join.css" />
+        <option value="$PROJECT_DIR$/mtdemo/join.html" />
+        <option value="$PROJECT_DIR$/mtdemo/personal.html" />
         <option value="$PROJECT_DIR$/mtdemo/shouye.html" />
+        <option value="$PROJECT_DIR$/mtdemo/Item details.html" />
+        <option value="$PROJECT_DIR$/mtdemo/shoppingcar.html" />
+        <option value="$PROJECT_DIR$/mtdemo/login.html" />
       </list>
     </option>
   </component>
@@ -131,10 +201,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="396" />
-    <option name="y" value="200" />
+    <option name="x" value="442" />
+    <option name="y" value="186" />
     <option name="width" value="1380" />
-    <option name="height" value="765" />
+    <option name="height" value="844" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -142,6 +212,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -176,18 +247,10 @@
               <item name="mtdemo" type="462c0819:PsiDirectoryNode" />
               <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="protaldemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="protaldemo" type="462c0819:PsiDirectoryNode" />
-              <item name="mtdemo" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
-              <item name="logo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,18 +299,21 @@
       <workItem from="1573604780026" duration="14523000" />
       <workItem from="1573689934053" duration="6939000" />
       <workItem from="1573816250435" duration="3718000" />
-      <workItem from="1573866524879" duration="24211000" />
+      <workItem from="1573866524879" duration="24383000" />
+      <workItem from="1573893292292" duration="8000" />
+      <workItem from="1573951187340" duration="27087000" />
+      <workItem from="1574035502788" duration="35711000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111739000" />
+    <option name="totallyTimeSpent" value="174717000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="275" y="145" width="1104" height="612" extended-state="0" />
+    <frame x="590" y="75" width="1104" height="675" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20692883" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.20692883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -266,7 +332,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19526628" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20692883" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -299,9 +365,6 @@
     <entry file="file://$PROJECT_DIR$/mtdemo/images/logo/cd.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mtdemo/images/logo/zuojt.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/七巧板.html" />
     <entry file="file://$PROJECT_DIR$/css/qiqiaoban.css">
       <provider selected="true" editor-type-id="text-editor">
@@ -314,13 +377,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="46">
           <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mtdemo/css/login.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="100" column="73" lean-forward="true" selection-start-line="99" selection-start-column="4" selection-end-line="100" selection-end-column="73" />
         </state>
       </provider>
     </entry>
@@ -341,48 +397,114 @@
     <entry file="file://$PROJECT_DIR$/mtdemo/images/logo/下拉菜单.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mtdemo/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/mtdemo/images/logo/zuojt.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mtdemo/css/join.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/mtdemo/all.html" />
+    <entry file="file://$PROJECT_DIR$/mtdemo/images/logo/放大镜.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mtdemo/join.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="49" column="14" lean-forward="true" selection-start-line="49" selection-start-column="14" selection-end-line="49" selection-end-column="14" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/mtdemo/images/logo/火锅.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mtdemo/personal.html">
+    <entry file="file://$PROJECT_DIR$/mtdemo/css/login.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="23">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mtdemo/css/shouye.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="381">
-          <caret line="231" column="1" lean-forward="true" selection-start-line="231" selection-start-column="1" selection-end-line="231" selection-end-column="1" />
+        <state relative-caret-position="365">
+          <caret line="603" column="19" lean-forward="true" selection-start-line="603" selection-start-column="19" selection-end-line="603" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mtdemo/css/personal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="235" column="16" lean-forward="true" selection-start-line="235" selection-start-column="16" selection-end-line="235" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/css/allclass.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="199" column="19" selection-start-line="199" selection-start-column="19" selection-end-line="199" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/css/pay.css">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/css/Item details.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="205" column="1" lean-forward="true" selection-start-line="205" selection-start-column="1" selection-end-line="205" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/allclass.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="4" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/css/shoppingcar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="206" column="22" selection-start-line="206" selection-start-column="22" selection-end-line="206" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/css/join.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="79" column="22" selection-start-line="79" selection-start-column="22" selection-end-line="79" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/join.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="53" column="19" lean-forward="true" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="98" column="38" lean-forward="true" selection-start-line="98" selection-start-column="38" selection-end-line="98" selection-end-column="38" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mtdemo/shouye.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="110" column="39" selection-start-line="110" selection-start-column="39" selection-end-line="110" selection-end-column="39" />
+        <state relative-caret-position="250">
+          <caret line="131" column="44" lean-forward="true" selection-start-line="131" selection-start-column="44" selection-end-line="131" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/Item details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="35" column="39" lean-forward="true" selection-start-line="35" selection-start-column="39" selection-end-line="35" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/shoppingcar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="62" column="26" lean-forward="true" selection-start-line="62" selection-start-column="26" selection-end-line="62" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mtdemo/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
         </state>
       </provider>
     </entry>
