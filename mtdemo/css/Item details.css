@@ -191,38 +191,43 @@
 }
 
 /*第五部分*/
-#wke{
+#wke {
     display: flex;
     align-items: center;
     height: 48px;
     width: 100%;
     border-bottom: #F4F2EE 1px solid;
 }
-#wke img{
+
+#wke img {
 
 }
-#fen{
+
+#fen {
     color: #fa952f;
 }
-#pingjia{
-    color:#999;
+
+#pingjia {
+    color: #999;
     margin-left: 60%;
-    font-size:14px ;
+    font-size: 14px;
 }
-#wkg{
+
+#wkg {
     margin-left: 11px;
     margin-top: 10px;
     height: 200px;
     width: 100%;
     border-bottom: #F0F0F0 10px solid;
 }
-.wkg2{
+
+.wkg2 {
     display: inline-block;
     /*float: left;*/
     font-size: 14px;
     color: #FDB338;
     border: #FDB338 1.5px solid;
-    margin:3px;
+    margin: 3px;
     padding: 3px;
     border-radius: 3px;
 }

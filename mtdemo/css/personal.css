@@ -49,7 +49,7 @@
     position: relative;
     height: 85px;
     width: 100%;
-    background-color:#F0EFE5;
+    background-color: #F0EFE5;
     border-bottom: #E8E7E5 10px solid;
 }
 
@@ -95,150 +95,176 @@
     top: 60%;
     font-size: 13px;
 }
-#w4{
+
+#w4 {
     position: absolute;
     right: 2%;
     top: 26px;
     color: #999999;
-    font-size:25px ;
+    font-size: 25px;
 }
+
 /*第二部分*/
-#wkss{
+#wkss {
     height: 50px;
     width: 100%;
 }
-#wks{
+
+#wks {
     display: flex;
     justify-content: space-around;
     align-items: center;
     position: relative;
     height: 100%;
     width: 100%;
-    border-bottom:#F4F2EE 1px solid ;
+    border-bottom: #F4F2EE 1px solid;
 }
+
 #wks2 {
     position: absolute;
     left: 2%;
     height: 30px;
     width: 35px;
 }
-#wks2 img{
+
+#wks2 img {
     height: 100%;
     width: 100%;
 }
-#wks3{
+
+#wks3 {
     position: absolute;
     left: 13%;
     font-size: 14px;
 }
-#wks4{
+
+#wks4 {
     position: absolute;
     right: 2%;
     color: #999999;
-    font-size:21px ;
+    font-size: 21px;
 }
-#wkt{
+
+#wkt {
     display: flex;
     justify-content: space-around;
     align-items: center;
     height: 85px;
     width: 100%;
-    border-bottom:#F0EFED 10px solid ;
+    border-bottom: #F0EFED 10px solid;
 }
-.wkt2{
+
+.wkt2 {
     height: 60px;
     width: 43px;
 }
-.wkt2 img{
+
+.wkt2 img {
     height: 40px;
     width: 40px;
 }
-.wkt2 div{
+
+.wkt2 div {
     font-size: 13px;
 }
+
 /*1*/
-#wkd{
+#wkd {
     position: relative;
     height: 50px;
     width: 100%;
-    border-bottom:#F4F2EE 1px solid ;
+    border-bottom: #F4F2EE 1px solid;
 }
-#wkd img{
+
+#wkd img {
     padding-left: 9px;
     padding-top: 11px;
     height: 30px;
     width: 30px;
 }
-.wode{
+
+.wode {
     position: absolute;
     left: 50px;
     top: 16px;
     font-size: 14px;
 }
-.dayuhao{
+
+.dayuhao {
     position: absolute;
     right: 2%;
     top: 11px;
     color: #999999;
-    font-size:21px ;
+    font-size: 21px;
 }
+
 /*2*/
-#wkd2{
+#wkd2 {
     position: relative;
     height: 50px;
     width: 100%;
-    border-bottom:#F4F2EE 1px solid ;
+    border-bottom: #F4F2EE 1px solid;
 }
-#wkd2 img{
+
+#wkd2 img {
     padding-left: 9px;
     padding-top: 11px;
     height: 30px;
     width: 30px;
 }
+
 /*3*/
-#wkd3{
+#wkd3 {
     position: relative;
     height: 50px;
     width: 100%;
-    border-bottom:#F4F2EE 1px solid ;
+    border-bottom: #F4F2EE 1px solid;
 }
-#wkd3 img{
+
+#wkd3 img {
     padding-left: 9px;
     padding-top: 11px;
     height: 30px;
     width: 30px;
 }
+
 /*4*/
-#wkd4{
+#wkd4 {
     position: relative;
     height: 50px;
     width: 100%;
-    border-bottom:#F4F2EE 1px solid ;
+    border-bottom: #F4F2EE 1px solid;
 }
-#wkd4 img{
+
+#wkd4 img {
     padding-left: 9px;
     padding-top: 11px;
     height: 30px;
     width: 30px;
 }
+
 /*第三部分*/
-#wkg{
+#wkg {
     height: 20px;
     width: 87%;
     margin: auto;
     margin-top: 18px;
 }
-#wkg2{
+
+#wkg2 {
     font-size: 13px;
 }
-#wkg img{
+
+#wkg img {
     height: 16px;
     width: 16px;
 }
-#wkg3{
+
+#wkg3 {
     font-size: 13px;
 }
-#wkh{
+
+#wkh {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -247,43 +273,50 @@
     margin: auto;
     margin-top: 20px;
 }
-.ms{
+
+.ms {
     font-size: 10px;
     color: #FE8C00;
 }
-.der{
+
+.der {
     font-size: 10px;
 }
-#ss{
+
+#ss {
     display: flex;
     align-items: center;
     justify-content: space-between;
     height: 15px;
     width: 80%;
-    margin:auto;
+    margin: auto;
     margin-top: 10px;
 }
-.ss2{
+
+.ss2 {
     font-size: 10px;
     color: #646464;
 }
-#sss{
-     display: flex;
-     align-items: center;
-     justify-content: space-between;
-     height: 15px;
-     width: 70%;
-     margin:auto;
-     margin-top: 8px;
- }
-#ssss{
+
+#sss {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 15px;
+    width: 70%;
+    margin: auto;
+    margin-top: 8px;
+}
+
+#ssss {
     display: flex;
     align-items: center;
     justify-content: center;
     height: 15px;
     width: 70%;
-    margin:auto;
+    margin: auto;
     margin-top: 8px;
 }
+
 .
 
